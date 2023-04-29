@@ -1,0 +1,59 @@
+body{
+    margin:4%;
+    background: grey;
+    background-size: cover;
+}
+.scrollmenu{
+    width: 940px;
+    position: absolute;
+    margin: 0 auto;
+    margin: 0 0 0 15px;
+    text-transform:uppercase;
+    color: black;
+    font-weight: bold;
+    font-size: 20px;
+    text-decoration: none;
+    display: inline;
+}
+
+header {
+    text-align: center;
+}
+h1{
+    text-align: top;
+    font-size: 30px;
+    color: black;
+    background-color: grey;
+    }
+
+h2{
+    text-align: top;
+    font-size: 25px;
+    color: black;
+    background-color: grey;
+    }
+
+h3{
+    text-align: top;
+    font-size: 25px;
+    color: black;
+    background-color: grey;
+    }
+
+h4{
+    text-align: top;
+    font-size: 25px;
+    color: black;
+    background-color: grey;
+    }
+        
+ p{text-align: top;
+   color: black;
+   background: grey;
+   font-size: 20px;}                         
+img{
+    height: 200px;
+    width: 200px;
+    border-radius: 50%;
+    text-align: center;
+}
